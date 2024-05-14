@@ -1,7 +1,7 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
--title: bitter people traits
+ - title: bitter people traits
   post_list:
       limit:2
       category: life
@@ -16,14 +16,7 @@ entries:
       - title: kunkun repo
       - title: "used by <a href='https://wordo.asia'>wordo.asia</a>"
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-title: you find this - 1
+ - title: you find this - 1
   post_list:
        limit:6
        category: seasonone
