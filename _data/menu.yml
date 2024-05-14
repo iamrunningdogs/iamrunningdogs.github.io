@@ -23,13 +23,13 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: seasonone
-      limit: 1
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: seasonone-archive.html
+title: you find this - 1
+  post_list:
+       limit:6
+       category: seasonone
+       show_more:true
+       show_more_text: see ... find?
+       show_more_url: seasonone-archive.html
 
   - title: rss
     url: feed.xml
