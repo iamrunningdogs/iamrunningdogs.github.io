@@ -1,6 +1,14 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
+-title: bitter people traits
+  post_list:
+      limit:2
+      category: life
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: life-archieve.html
+
 entries:
   - title: info
     entries:
