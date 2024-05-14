@@ -1,4 +1,5 @@
 ---
+layout: post
 category: live
 title: a sad day
 ---
@@ -9,4 +10,10 @@ title: a sad day
 
 > I walk around
 
-<p>but I'm not <br> allowed to sign <br> up for my <br> presence of meeting.</p>
+> but I'm not
+
+> allowed to sign
+
+> up for my
+
+> presence of meeting
