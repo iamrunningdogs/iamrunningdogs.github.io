@@ -1,14 +1,8 @@
 entries:
- - title: bitter people traits
+ - title: bitter
     post_list:
       category: live
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: live-archive.html
 
  - title: you find all
     post_list:
        category: seasonone
-       show_more: true
-       show_more_text: see ... find?
-       show_more_url: seasonone-archive.html
