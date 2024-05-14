@@ -1,5 +1,5 @@
 ---
-category: life
+category: live
 title: a sad day
 ---
 
