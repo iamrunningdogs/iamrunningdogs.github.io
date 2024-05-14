@@ -9,13 +9,6 @@
       show_more_text: See archive...
       show_more_url: live-archive.html
 
-entries:
-  - title: info
-    entries:
-      - title: a kunkun site.
-      - title: kunkun repo
-      - title: "used by <a href='https://wordo.asia'>wordo.asia</a>"
-
  - title: you find all
   post_list:
        limit: 6
