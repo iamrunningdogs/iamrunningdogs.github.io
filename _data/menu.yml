@@ -1,18 +1,15 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
  - title: bitter people traits
     post_list:
-      limit: 2
       category: live
+      limit: 2
       show_more: true
       show_more_text: See archive...
       show_more_url: live-archive.html
 
  - title: you find all
     post_list:
-       limit: 6
        category: seasonone
+       limit: 6
        show_more: true
        show_more_text: see ... find?
        show_more_url: seasonone-archive.html
