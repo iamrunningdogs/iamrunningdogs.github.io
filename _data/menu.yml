@@ -1,7 +1,9 @@
  - title: bite
 post_list: 
       category: live
+limit:2
 
  - title: you find all
     post_list:
        category: seasonone
+limit:5
