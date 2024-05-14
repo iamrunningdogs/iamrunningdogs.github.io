@@ -2,7 +2,6 @@ entries:
  - title: bite
 post_list: 
       category: live
-limit:2
 show_more: true
        show_more_text: see ... find?
        show_more_url: live-archive.html
@@ -10,7 +9,6 @@ show_more: true
  - title: you find all
     post_list:
        category: seasonone
-limit:5
 show_more: true
        show_more_text: see ... find?
        show_more_url: seasonone-archive.html
