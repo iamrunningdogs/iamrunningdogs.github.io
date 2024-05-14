@@ -18,7 +18,7 @@ entries:
   - title: posts by category
     post_list:
       category: seasonone
-      limit:1
+      limit: 1
       show_more: true
       show_more_text: See more posts...
       show_more_url: seasonone-archive.html
