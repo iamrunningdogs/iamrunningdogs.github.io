@@ -20,7 +20,7 @@ entries:
   post_list:
        limit: 6
        category: seasonone
-       show_more:true
+       show_more: true
        show_more_text: see ... find?
        show_more_url: seasonone-archive.html
 
