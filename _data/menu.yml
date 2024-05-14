@@ -1,14 +1,5 @@
-
-entries:
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
- - title: bitter
-    post_list:
+ - title: bite
+post_list: 
       category: live
 
  - title: you find all
