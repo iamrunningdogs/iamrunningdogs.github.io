@@ -16,21 +16,10 @@ entries:
       - title: kunkun repo
       - title: "used by <a href='https://wordo.asia'>wordo.asia</a>"
 
- - title: you find this - 1
+ - title: you find all
   post_list:
        limit: 6
        category: seasonone
        show_more: true
        show_more_text: see ... find?
        show_more_url: seasonone-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
