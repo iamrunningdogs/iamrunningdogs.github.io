@@ -1,42 +1,22 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: ""
-
-  - title: all posts
+  - title: bite
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
+      
+  - title: bite
+    post_list: 
       category: live
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See archive...
       show_more_url: live-archive.html
 
-  - title: posts by category
+  - title: you find all
     post_list:
       category: seasonone
       show_more: true
-      show_more_text: See more posts...
+      show_more_text: See archive...
       show_more_url: seasonone-archive.html
-  
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
