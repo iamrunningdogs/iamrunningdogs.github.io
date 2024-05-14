@@ -1,7 +1,6 @@
 ---
 layout: post
 category: live
-title: a sad day
 ---
 
 ## To may 14th
