@@ -1,13 +1,15 @@
 entries:
  - title: bite
-    post_list:  
+    post_list:
+limit:5
       show_more: true
       show_more_text: See archive...
       show_more_url: live-archive.html
       
  - title: bite
-    post_list: 
+    post_list:
       category: live
+limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: live-archive.html
@@ -15,6 +17,7 @@ entries:
  - title: you find all
     post_list:
       category: seasonone
+limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: seasonone-archive.html
