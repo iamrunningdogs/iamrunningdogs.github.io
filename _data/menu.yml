@@ -3,7 +3,7 @@
 
  - title: bitter people traits
   post_list:
-      limit:2
+      limit: 2
       category: live
       show_more: true
       show_more_text: See archive...
@@ -18,7 +18,7 @@ entries:
 
  - title: you find this - 1
   post_list:
-       limit:6
+       limit: 6
        category: seasonone
        show_more:true
        show_more_text: see ... find?
