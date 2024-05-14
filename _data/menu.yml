@@ -1,6 +1,6 @@
 entries:
  - title: bite
-    post_list: 
+    post_list:  
       show_more: true
       show_more_text: See archive...
       show_more_url: live-archive.html
