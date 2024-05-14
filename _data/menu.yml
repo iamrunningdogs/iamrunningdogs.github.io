@@ -1,14 +1,14 @@
 entries:
  - title: bite
-post_list: 
+    post_list: 
       category: live
-show_more: true
-       show_more_text: see ... find?
-       show_more_url: live-archive.html
+      show_more: true
+      show_more_text: see
+      show_more_url: live-archive.html
 
  - title: you find all
     post_list:
-       category: seasonone
-show_more: true
-       show_more_text: see ... find?
-       show_more_url: seasonone-archive.html
+      category: seasonone
+      show_more: true
+      show_more_text: see
+      show_more_url: seasonone-archive.html
