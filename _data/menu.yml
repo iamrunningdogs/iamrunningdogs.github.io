@@ -1,23 +1,23 @@
+
 entries:
- - title: bite
+  - title: bite
     post_list:
-limit:5
+      limit: 5
       show_more: true
       show_more_text: See archive...
-      show_more_url: live-archive.html
+      show_more_url: archive.html
       
- - title: bite
-    post_list:
+  - title: bite
+    post_list: 
       category: live
-limit: 5
+      limit: 1
       show_more: true
       show_more_text: See archive...
       show_more_url: live-archive.html
 
- - title: you find all
+  - title: you find all
     post_list:
       category: seasonone
-limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: seasonone-archive.html
