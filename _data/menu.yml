@@ -1,11 +1,11 @@
 
 entries:
-  - title: bite
+  - title: deer
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_url: deer-archive.html
       
   - title: bite
     post_list: 
