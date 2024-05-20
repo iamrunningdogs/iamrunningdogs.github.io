@@ -2,6 +2,7 @@
 entries:
   - title: deer
     post_list:
+      category: deer
       limit: 5
       show_more: true
       show_more_text: See archive...
