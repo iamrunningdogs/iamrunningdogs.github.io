@@ -7,8 +7,6 @@ tags:
 
 > 目录：
 
-目录[1]
-
 RNA提取[2]
 
 蛋白质提取[3]
@@ -38,3 +36,5 @@ RNA提取[2]
 [3]: Collection Collection of protein samples□ BCA working liquid. □Add PBS to each holes.。□Wait 1h for protein splitting.□ Scrach and collection. Use timer/water tanks.□ Distract each sample for BCA protein concentration examining.□ Add working liquid.□ Add 1/4 of amount of loading buffer. then 13000rpm 10 minutes.□ 100℃ spoiling for 5-10 minutes.□ Save the samples in -80 degrees refrigerator.
 
 [1]: dteachbook1
+
+目录[1]
