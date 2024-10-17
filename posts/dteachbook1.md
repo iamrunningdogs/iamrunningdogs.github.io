@@ -5,7 +5,7 @@ tags:
   起飞
 ---
 
-<div id = "id"></div>
+<ref id = "id"></ref>
 
 > 目录：
 
@@ -35,7 +35,7 @@ RNA提取[<sup>2</sup>](#exam1)
 
 （3）旨在提供新的临床治疗策略，服务当前老龄化情况，给患者获得更高生活质量的可能。
 
-<div id = "exam1"></div>
+<ref id = "exam1"></ref>
 
 RNA extraction from tissue
 
@@ -61,7 +61,7 @@ RNA extraction from tissue
 
 11. End of this term. Wait for reversing to cDNA.
 
-<div id = "exam2"></div>
+<ref id = "exam2"></ref>
 
 Collection of protein samples
 
