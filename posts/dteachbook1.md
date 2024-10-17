@@ -5,15 +5,13 @@ tags:
   起飞
 ---
 
-<ref id = "id"></ref>
-
 > 目录：
 
-目录[1](#id)
+目录[^1]
 
-RNA提取[2](#exam1)
+RNA提取[^2]
 
-蛋白质提取[3](#exam2)
+蛋白质提取[^3]
 
 通过系统生物学方法揭示脑卒中与肾功能不全合并症的遗传联系
 
@@ -35,9 +33,7 @@ RNA提取[2](#exam1)
 
 （3）旨在提供新的临床治疗策略，服务当前老龄化情况，给患者获得更高生活质量的可能。
 
-<ref id = "exam1"></ref>
-
-RNA extraction from tissue
+[^2]: RNA extraction from tissue
 
 1. Preparation of samples: choose the exact method and write it down.
 
@@ -61,9 +57,7 @@ RNA extraction from tissue
 
 11. End of this term. Wait for reversing to cDNA.
 
-<ref id = "exam2"></ref>
-
-Collection of protein samples
+[^3]: Collection of protein samples
 
 1. BCA working liquid.
 
@@ -82,3 +76,5 @@ Collection of protein samples
 8. 100℃ spoiling for 5-10 minutes.
 
 9. Save the samples in -80 degrees refrigerator.
+
+[^1]: RNA提取[^2] ，蛋白质提取[^3]
