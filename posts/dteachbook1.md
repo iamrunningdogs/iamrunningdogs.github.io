@@ -5,6 +5,8 @@ tags:
   起飞
 ---
 
+Read these: Using KM mouse injected ATP with vitamin D3, fed with high P food, a chronic kidney disease vessel calsification model was established. By doing so 10 out of 60 mouses succeed in thoracic arota calcification while another 6 dead. These model is easy and effective with high stability and time-saving, which is suitable for chronic kidney disease and vessel calcification research and featured in either obvious thoracic aorta calcification or thickening vessel wall, unstructured middle fiber. Using your material to provide us with PPT
+
 > 目录：
 
 RNA提取[2]
