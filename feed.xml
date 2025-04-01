@@ -3,12 +3,32 @@
     <title>blog</title>
     <link href="http://dagoujiao.asia/feed.xml" rel="self" />
     <link href="http://dagoujiao.asia" />
-    <updated>2025-04-01T19:30:27+08:00</updated>
+    <updated>2025-04-01T20:01:05+08:00</updated>
     <author>
         <name>iamrunningdogs</name>
     </author>
     <id>http://dagoujiao.asia</id>
 
+    <entry>
+        <title>icy son</title>
+        <author>
+            <name>iamrunningdogs</name>
+        </author>
+        <link href="http://dagoujiao.asia/icy-son.html"/>
+        <id>http://dagoujiao.asia/icy-son.html</id>
+
+        <updated>2025-04-01T20:01:05+08:00</updated>
+            <summary>
+                <![CDATA[
+                    you ai wo wo ai you, it's so yummy~
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>you ai wo wo ai you, it's so yummy~</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>well</title>
         <author>
