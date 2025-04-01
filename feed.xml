@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>blog</title>
-    <link href="https://iamrunningdogs.github.io/feed.xml" rel="self" />
-    <link href="https://iamrunningdogs.github.io" />
+    <link href="http://dagoujiao.asia/feed.xml" rel="self" />
+    <link href="http://dagoujiao.asia" />
     <updated>2025-04-01T19:30:27+08:00</updated>
     <author>
         <name>iamrunningdogs</name>
     </author>
-    <id>https://iamrunningdogs.github.io</id>
+    <id>http://dagoujiao.asia</id>
 
     <entry>
         <title>well</title>
         <author>
             <name>iamrunningdogs</name>
         </author>
-        <link href="https://iamrunningdogs.github.io/well.html"/>
-        <id>https://iamrunningdogs.github.io/well.html</id>
+        <link href="http://dagoujiao.asia/well.html"/>
+        <id>http://dagoujiao.asia/well.html</id>
 
         <updated>2025-04-01T19:30:27+08:00</updated>
             <summary>

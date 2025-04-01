@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://iamrunningdogs.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://dagoujiao.asia/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://iamrunningdogs.github.io/</loc>
+<loc>http://dagoujiao.asia/</loc>
 </url>
 <url>
-<loc>https://iamrunningdogs.github.io/hi.html</loc>
+<loc>http://dagoujiao.asia/hi.html</loc>
 <lastmod>2025-04-01T19:30:02+08:00</lastmod>
 </url>
 <url>
-<loc>https://iamrunningdogs.github.io/well.html</loc>
+<loc>http://dagoujiao.asia/well.html</loc>
 <lastmod>2025-04-01T19:30:27+08:00</lastmod>
 </url>
 </urlset>

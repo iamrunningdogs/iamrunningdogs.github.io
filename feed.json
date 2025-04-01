@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "blog",
     "description": "",
-    "home_page_url": "https://iamrunningdogs.github.io",
-    "feed_url": "https://iamrunningdogs.github.io/feed.json",
+    "home_page_url": "http://dagoujiao.asia",
+    "feed_url": "http://dagoujiao.asia/feed.json",
     "user_comment": "",
     "author": {
         "name": "iamrunningdogs"
     },
     "items": [
         {
-            "id": "https://iamrunningdogs.github.io/well.html",
-            "url": "https://iamrunningdogs.github.io/well.html",
+            "id": "http://dagoujiao.asia/well.html",
+            "url": "http://dagoujiao.asia/well.html",
             "title": "well",
             "summary": "can anybody see us",
             "content_html": "<p>can anybody see us</p>",
